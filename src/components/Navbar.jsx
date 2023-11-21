@@ -45,6 +45,8 @@ const Input = styled.input`
 `
 const Logo = styled.h1`
   font-weight: bold;
+  font-family: 'Segoe UI', sans-serif;
+  font-style: italic;
 `
 const MenuItem = styled.div`
   font-size: 14px;
@@ -65,7 +67,7 @@ const Navbar = () => {
             </SearchContainer>
           </Left>
           <Center>
-            <Logo>PitStop Motors</Logo>
+            <Logo>FORMULA OUTLET</Logo>
           </Center>
           <Right>
             <MenuItem>Register</MenuItem>
