@@ -60,7 +60,7 @@ const Navbar = () => {
       <Container>
         <Wrapper>
           <Left>
-            <Language>PT</Language>
+            <Language>EN</Language>
             <SearchContainer>
               <Input />
               <Search style={{ color: 'grey', fontSize: 16 }} />
