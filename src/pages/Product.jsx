@@ -18,8 +18,8 @@ const ImgContainer = styled.div`
 `
 
 const Image = styled.img`
-  width: 90%;
-  height: 90vh;
+  width: 80%;
+  height: 80vh;
   object-fit: cover;
 `
 
