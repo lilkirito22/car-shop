@@ -21,7 +21,7 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: '/src/assets/Imgs/399643440_770394344852579_4289137326615911957_n.jpg',
+    img: 'https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkzMzkwMjUwNDk4NzI5ODkx/220043-scuderia-ferrari-mexican-gp-2022-saturday.jpg',
     title: 'FORMULA 1',
   },
   {
@@ -31,12 +31,12 @@ export const categories = [
   },
   {
     id: 3,
-    img: '/src/assets/Imgs/403987836_1284710408860381_2439464364222371289_n.jpg',
+    img: 'https://lh3.googleusercontent.com/fife/AK0iWDwMq1PT6Rr0d53w1iANvmAjUckyq4gXBWVxq4t17nwTZVWRDTvYoT_T5g6WtlD0j16nF1atQ1_U3Thku-zuVA9lV0twCHZlbp95h_RbtD0G4CaI82pEuQbCCJcJAqhESDZwTk5HyrCSvi8aHyZkuSgXAUIWqnKhl8CQZxZ0512N1nKCO7TZDOLIrqyDZaloAHSSP3jlfJ5K8YpqiZlz-muxkQimr_WC5EYPGzY9098kD4v4yHhEPRYqmOdO1nsC7Z2Jbj8Yz04cbg1aOeHu37N89GbMdoomB7HtPbBa1qOjWaGHuTfD6wy7GVKAFvPGinGUpPtnkF_9zUaRaY5ELGk66yX1V8TrSOOIjnM1aYPoUHG7O-2jX_-gnYjqUMYKzdi260v5ZqbBlv8shVqJ5zRszv1Ogn1i0gGRckV4zllPnwJ3AqgY0SwtsjGheLMqW7ZMcoM9meTu1TKW3PaRg_Klac6U5qzOM7PZ26hOGDHQDFbo3jvzp_ZayO_DSQifYvAA0KrztJHVm72-9G7ZLJoZq303ov0z73AnNH4AttNcQE4qL-UyEAyl41S1WEvwMQuXq7bF1BNtoy_vunihb9bFimd-m34A8NZMwMradNxIR4QUd_-kInQRC1LChy6KP91XEWkDdOAWV2SQe91ashOO3_NVNt2pU6mSPq7qJzC2oekBt45Awv6BRSEDdmSHj3SuMy0iIF7owrBrun-4r0Fq7Mc3pcEztk5pSeO0ICIbHJJ8I1qspbiIQ9ZWgL2lVjZvya-MfaWMeZWAN88GT-A5tm_YOQI6I_2oO3vlV2-8FOWaJkPrEc3KkSgJGvIholL4RuLQIW7xicodE4Ory-i-nd_5d9bTF8skae1Ye3MMocz-uVzZ-rxmZ_0w1FClJ2C7p69OJd70PSHtdv9AfDFKqPAmc847iyJyPHeJx4pJdMXEjCydlmAcYmRXqeQOPgX3EeDDM-tDPUWdPLDgj35f-tGviq1fr0wX_FVlxVnFy29M1fN5DWUhPjIiYm29uiBj4pglslFAs9EmXG909zDK6PowZgKNF2qG_obCBEy1bEc88tXWflKWpzWAaLbZ_iEQT5BdyadPO-spEmCbWGy-hraoIKg9dvVpj7QFSlTGz1qrTSziT-kBdKE4yui_pgV4CMNV-cdErwuMon30hg=w1879-h962',
     title: 'OUTLET',
   },
   {
     id: 4,
-    img: '/src/assets/Imgs/398527109_1485665528877010_1154517754681842486_n.jpg',
+    img: 'https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/cc95af50-dcff-4919-b5fd-26b917330aab/the-new-netherlands-football-jersey.jpg',
     title: 'KIDS',
   },
 ]
