@@ -1,13 +1,13 @@
 export const sliderItems = [
   {
     id: 1,
-    img: '/src/assets/Imgs/max-verstappen-hero-driver.png',
+    img: 'https://www.kymillman.com/wp-content/uploads/f1/pages/driver-profiles/max-verstappen/max-verstappen-hero-driver.png',
     title: 'F1  SALE',
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
   },
   {
     id: 2,
-    img: '/src/assets/Imgs/pngegg.png',
+    img: 'https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCzHTVLeSGOI9rQJJ2kHAib8zylzcXyZ2BfTVmUbTBa9Wfr__2tWMooLwRCko3_Bo2DLS1VM-Deo98eiUcK3fwFKz2UzA=w1879-h962',
     title: 'FOOTBALL SALE',
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
   },
